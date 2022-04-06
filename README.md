@@ -32,12 +32,12 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;
 </div>
 
 ---
